@@ -9,7 +9,7 @@ class positive
             float pos = 0,neg = 0,num=0,p=0,n=0;
             while(num!=-1)
             {
-                System.out.print("enter the number: ");
+                System.out.print("enter the number:- ");
                 num = input.nextInt();
                 if(num>0)
                 {
